@@ -1,6 +1,11 @@
 # dabamien_google_ocr
 Using Google Document AI to scan pdf
 
+Google colab 檔案 https://colab.research.google.com/drive/1Y__UqZBHwWkJNk34gluTabg8HSZc28xy
+請完成前置步驟再開始執行此Colab
+
+##前置步驟
+
 ### 步驟1 點開Google Document AI 文件
 https://codelabs.developers.google.com/codelabs/docai-ocr-python 
 
@@ -34,7 +39,7 @@ https://codelabs.developers.google.com/codelabs/docai-ocr-python
     ![alt text](readme_img/image-1.png)
 
     並為其分配必要的角色（例如 Document AI API User, Document AI Administrator, Service Usage Consumer, Storage Admin） 點選Done。
-    
+
     ![alt text](readme_img/image-2.png)
     ![alt text](readme_img/image-3.png)
 2. 下載服務帳戶密鑰：
@@ -64,7 +69,7 @@ https://codelabs.developers.google.com/codelabs/docai-ocr-python
     建立results資料夾
     此路徑為 <b>"gs://bamien/results"</b>
 
-### 開始分析
+## 開始分析
 
 1. 打開Google colab 檔案 https://colab.research.google.com/drive/1Y__UqZBHwWkJNk34gluTabg8HSZc28xy
 
