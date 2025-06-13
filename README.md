@@ -14,7 +14,9 @@ https://codelabs.developers.google.com/codelabs/docai-ocr-python
 打開Google Cloud Console
 搜尋欄輸入 Document AI API, Google Cloud Storage API
 ![alt text](readme_img/image-6.png)
+
 確保API已啟用
+
 ![alt text](readme_img/image-5.png)
 
 ### 步驟4
@@ -30,7 +32,9 @@ https://codelabs.developers.google.com/codelabs/docai-ocr-python
     ![alt text](readme_img/image.png)
     隨機輸入Service account name, 點選Create and Continue
     ![alt text](readme_img/image-1.png)
+
     並為其分配必要的角色（例如 Document AI API User, Document AI Administrator, Service Usage Consumer, Storage Admin） 點選Done。
+    
     ![alt text](readme_img/image-2.png)
     ![alt text](readme_img/image-3.png)
 2. 下載服務帳戶密鑰：
