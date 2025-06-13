@@ -2,9 +2,10 @@
 Using Google Document AI to scan pdf
 
 Google colab 檔案 https://colab.research.google.com/drive/1Y__UqZBHwWkJNk34gluTabg8HSZc28xy
+
 請完成前置步驟再開始執行此Colab
 
-##前置步驟
+## 前置步驟
 
 ### 步驟1 點開Google Document AI 文件
 https://codelabs.developers.google.com/codelabs/docai-ocr-python 
